@@ -9,4 +9,8 @@ require_relative '../lib/concerns/findable'
 require_relative '../lib/concerns/paramble'
 require_relative '../lib/artist.rb'
 require_relative '../lib/song.rb'
+<<<<<<< HEAD
 
+=======
+require_relative '../lib/concerns/memorable'
+>>>>>>> 845e3d2ff30428498c1269e8444f185fb8232dc8
